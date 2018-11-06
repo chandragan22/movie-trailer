@@ -17,3 +17,4 @@ View the gallery of my favorite movie trailers!
 ## Acknowledgements
 
 The Udacity Nanodegree program to becoming a Full-Stack Web Developer was used to lay out the structure of the code and organize the code.
+The fresh_tomatoes.py code was provided by Udacity.
